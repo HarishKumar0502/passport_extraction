@@ -13,11 +13,13 @@ ENV/
 uploads/
 *.jpg
 *.jpeg
-*.png
-*.pdf
+*.png*.pdf
 *.tiff
 *.bmp
-
+passport_layout.pt
+TROUBLESHOOTING.md
+debug_backend.bat
+start_app.bat
 # IDE
 .vscode/
 .idea/
